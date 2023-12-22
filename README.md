@@ -21,13 +21,13 @@
 
 ### Secure Cloud Deployments with Azure and AWS
 
-📂 Implementing secure cloud architectures using Azure and AWS services with a focus on cybersecurity best practices.
+📂 Implementing secure cloud architectures using Azureservices with a focus on cybersecurity best practices.
 
 
 ### Cloud Security Automation Scripts
 
-📂 Automated scripts for configuring security settings and compliance checks in Azure and AWS environments.
-🔗 [Link to Project](https://github.com/yourusername/cloud-security-automation)
+📂 Automated scripts for configuring security settings and compliance checks in Azure environments.
+
 
 ## Connect with Me
 
