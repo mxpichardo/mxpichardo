@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Mayobanex]
+
+## About Me
+
+🌟 [Summary about yourself]
+🌱 [What you're currently learning]
+💡 [Areas of interest/specialization]
+🎓 [Your education/professional background]
+
+🚀 [Tagline/Description]
 
 <!--
 **mxpichardo/mxpichardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
