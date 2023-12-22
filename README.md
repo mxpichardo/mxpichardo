@@ -34,5 +34,5 @@
 📫 Email: [youremail@example.com](mailto:youremail@example.com)
 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-![Hack The Box](https://example.com/hackthebox-logo.png)  Hackthebox  hackthebox.com/5plint3r
+https://www.hackthebox.com/  Hackthebox  hackthebox.com/5plint3r
 
