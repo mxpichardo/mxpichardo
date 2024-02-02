@@ -11,15 +11,15 @@
 
 ## Skills
 
-🚀 Azure and AWS Services (VMs, Storage, Networking, Security)
+🚀 Azure Services (VMs, Storage, Networking, Security)
 🌐 Cloud Security (Identity and Access Management, Encryption, Network Security Groups)
 💻 Security Compliance Frameworks (NIST, CIS Benchmarks)
-🔧 Threat Detection and Incident Response (Azure Sentinel, AWS Security Hub)
-📊 Security Monitoring and Log Analysis (Azure Monitor, AWS CloudWatch)
+🔧 Threat Detection and Incident Response (Azure Sentinel)
+📊 Security Monitoring and Log Analysis (Azure Monitor)
 
 ## Projects
 
-### Secure Cloud Deployments with Azure and AWS
+### Secure Cloud Deployments with Azure
 
 📂 Implementing secure cloud architectures using Azureservices with a focus on cybersecurity best practices.
 
