@@ -4,7 +4,7 @@
 
 ## About Me
 
-🌟 Specializing in Cloud Engineering, particularly Azure and AWS, with a strong emphasis on cybersecurity.
+🌟 Cloud Engineering, particularly Azure , with a strong emphasis on cybersecurity.
 🌱 Currently diving into Azure Sentinel and AWS Security Hub for cloud threat detection and response.
 💡 Aiming to bridge the gap between cloud solutions and robust cybersecurity measures.
 🎓 Cybersecurity certifications complementing cloud expertise, ensuring resilient and secure architectures.
@@ -31,7 +31,7 @@
 
 ## Connect with Me
 
-📫 Email: [youremail@example.com](mailto:youremail@example.com)
+📫 Email:
 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
 https://www.hackthebox.com/  Hackthebox  hackthebox.com/5plint3r
