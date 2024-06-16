@@ -31,7 +31,7 @@
 
 ## Connect with Me
 
-📫 Email:
+📫 Email:mayobanexpichardo@gmail.com
 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
 https://www.hackthebox.com/  Hackthebox  hackthebox.com/5plint3r
