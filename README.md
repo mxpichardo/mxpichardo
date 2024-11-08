@@ -29,10 +29,29 @@
 📂 Automated scripts for configuring security settings and compliance checks in Azure environments.
 
 
+# Experience
+let MicrosoftProducts = datatable(id: int, value: string)
+[
+      1, "Microsoft Defender for Endpoints", 
+      2, "Microsoft Defender for Office 365", 
+      3, "Microsoft Defender for Cloud Apps", 
+      4, "Microsoft Defender for Identity", 
+      5, "Microsoft 365 Defender", 
+      6, "Microsoft Sentinel"
+      7, "Microsoft Intune"
+
+      
+View my verified badges
+
+https://www.credly.com/users/hector-pichardo
+
+
 ## Connect with Me
 
 📫 Email:mayobanexpichardo@gmail.com
+HTB https://www.hackthebox.com/  Hackthebox  hackthebox.com/5plint3r
+Linkedin: https://www.linkedin.com/in/hector-pichardo-hernandez/
+
 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-https://www.hackthebox.com/  Hackthebox  hackthebox.com/5plint3r
 
