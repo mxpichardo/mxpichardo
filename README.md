@@ -44,6 +44,10 @@ let MicrosoftProducts = datatable(id: int, value: string)
 View my verified badges
 
 https://www.credly.com/users/hector-pichardo
+![image](https://github.com/user-attachments/assets/f881620d-a741-41d7-b871-82171846a02f)
+
+
+
 
 
 ## Connect with Me
