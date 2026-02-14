@@ -75,6 +75,8 @@ https://www.credly.com/users/hector-pichardo
 ![image](https://github.com/user-attachments/assets/426762b1-4b83-459f-9237-ea5bec3727d6)
 ![image](https://github.com/user-attachments/assets/98ea1bac-0dc7-4fdc-95e7-80bea499f569)
 ![image](https://github.com/user-attachments/assets/add892c8-c0d8-4e29-8f06-8d45f9c49101)
+![image](https://github.com/user-attachments/assets/14f5dbfe-3b68-4116-912e-2a5b2e215206).
+
 ![image](https://github.com/user-attachments/assets/0dc7f66d-2138-4415-9d5b-43b8dda74adc)
 ![image](https://github.com/user-attachments/assets/8f481d26-b5d7-4dd9-8ace-4b76a9665d21)
 
