@@ -76,6 +76,8 @@ https://www.credly.com/users/hector-pichardo
 ![image](https://github.com/user-attachments/assets/add892c8-c0d8-4e29-8f06-8d45f9c49101)
 ![image](https://github.com/user-attachments/assets/0dc7f66d-2138-4415-9d5b-43b8dda74adc)
 ![image](https://github.com/user-attachments/assets/8f481d26-b5d7-4dd9-8ace-4b76a9665d21)
+![image](https://github.com/user-attachments/assets/9c947393-d3c3-4050-b025-6f60c52a9df2).
+
 
 
 ## Connect with Me
