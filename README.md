@@ -4,22 +4,36 @@
 
 ## About Me
 
-🌟 Cloud Engineering, particularly Azure , with a strong emphasis on cybersecurity.
-🌱 Currently diving into Azure Sentinel and AWS Security Hub for cloud threat detection and response.
-💡 Aiming to bridge the gap between cloud solutions and robust cybersecurity measures.
-🎓 Cybersecurity certifications complementing cloud expertise, ensuring resilient and secure architectures.
+🌟 Specialized in Microsoft Azure, with a strong focus on cybersecurity.
+🌱 Currently deepening my expertise in Microsoft Sentinel, a cloud-native SIEM and security analytics solution.
+💡 Motivated to bridge the gap between cloud architecture, risk management, and defense strategies.
+🎓 Cybersecurity certifications that complement my cloud knowledge to ensure protected, governed, and compliant environments.
 
 ## Skills
 
-🚀 Azure Services (VMs, Storage, Networking, Security)
-🌐 Cloud Security (Identity and Access Management, Encryption, Network Security Groups)
-💻 Security Compliance Frameworks (NIST, CIS Benchmarks)
-🔧 Threat Detection and Incident Response (Azure Sentinel)
-📊 Security Monitoring and Log Analysis (Azure Monitor)
+🚀 Azure Services (Virtual Machines, Storage, Networking, Security)
+🌐 Identity & Access Management (RBAC, Conditional Access, MFA)
+🏢 Hybrid & On-Prem Infrastructure
+💻 Cloud & Infrastructure Security
+📋 Risk Assessment & Mitigation
+🔧 Threat Detection & Incident Response
+📊 Monitoring & Log Analytics
 
 ## Projects
 
 ### Secure Cloud Deployments with Azure
+
+###Secure Cloud Deployments with Azure
+
+📂 Design and implementation of secure landing zones and workloads following cybersecurity best practices.
+
+###Cloud Security Automation
+
+📂 Development of automated scripts to enforce configurations, hardening, and compliance validation across environments.
+
+Hybrid Identity & Access
+
+📂 Integration and protection of identities between cloud and on-premises directories.
 
 📂 Implementing secure cloud architectures using Azureservices with a focus on cybersecurity best practices.
 
@@ -40,6 +54,13 @@ let MicrosoftProducts = datatable(id: int, value: string)
       6, "Microsoft Sentinel"
       7, "Microsoft Intune"
 
+
+Additional Experience
+
+🔐 Administration and hardening of Active Directory in on-premises environments.
+🖥️ Management of servers, GPOs, DNS, DHCP, and authentication services.
+⚠️ Identification of vulnerabilities, risk analysis, and implementation of mitigation controls.
+🛡️ Support for audits and compliance initiatives.
       
 View my verified badges
 
@@ -57,17 +78,8 @@ https://www.credly.com/users/hector-pichardo
 ![image](https://github.com/user-attachments/assets/8f481d26-b5d7-4dd9-8ace-4b76a9665d21)
 
 
-
-
-
-
-
 ## Connect with Me
 
 📫 Email:mayobanexpichardo@gmail.com
 HTB https://www.hackthebox.com/  Hackthebox  hackthebox.com/5plint3r
 Linkedin: https://www.linkedin.com/in/hector-pichardo-hernandez/
-
-🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
-🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-
